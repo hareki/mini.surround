@@ -1,5 +1,5 @@
 version: '1'
 rules:
   - base: main
-    upstream: echasnovski:main
+    upstream: nvim-mini:main
     mergeMethod: merge
